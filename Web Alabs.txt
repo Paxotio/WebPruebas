@@ -1,0 +1,11 @@
+Esta carpeta está linkada con github
+
+Añadir su instagram pero está abandonado
+
+
+git add .
+git commit -m "descripción del cambio"
+git push
+
+En una linea
+git add . && git commit -m "actualización" && git push
